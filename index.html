@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slovníkové .cz domény v aukci</title>
+<meta name="description" content="Nadcházející a probíhající aukce .cz domén seřazené podle frekvence českých slov.">
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --surface: #ffffff;
+    --text: #1a2130;
+    --muted: #66707f;
+    --border: #e3e6ea;
+    --accent: #2f5fd0;
+    --accent-soft: #e8eefb;
+    --hover: #f2f5fa;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .05), 0 4px 16px rgba(16, 24, 40, .06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151b;
+      --surface: #1a1e26;
+      --text: #e7eaf0;
+      --muted: #8b95a5;
+      --border: #2a303b;
+      --accent: #7ca2f2;
+      --accent-soft: #223050;
+      --hover: #20252f;
+      --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 4px 16px rgba(0, 0, 0, .35);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 40px 20px 24px; }
+  header h1 { margin: 0 0 6px; font-size: 1.9rem; letter-spacing: -.02em; }
+  header h1 .tld { color: var(--accent); }
+  .sub { margin: 0; color: var(--muted); max-width: 60ch; }
+  .stats { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 0; }
+  .stat {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 8px 14px; font-size: .88rem; color: var(--muted); box-shadow: var(--shadow);
+  }
+  .stat b { color: var(--text); font-variant-numeric: tabular-nums; }
+
+  .controls {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    margin: 22px 0 14px;
+  }
+  .controls input[type="search"] {
+    flex: 1 1 220px; min-width: 0;
+    padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--text); font: inherit; font-size: .95rem;
+  }
+  .controls select {
+    padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--text); font: inherit; font-size: .95rem;
+  }
+  .controls input:focus-visible, .controls select:focus-visible, .toggle input:focus-visible + span {
+    outline: 2px solid var(--accent); outline-offset: 1px;
+  }
+  .toggle { display: inline-flex; align-items: center; cursor: pointer; user-select: none; }
+  .toggle input { position: absolute; opacity: 0; }
+  .toggle span {
+    padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--muted); font-size: .95rem; white-space: nowrap;
+  }
+  .toggle input:checked + span {
+    background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600;
+  }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+    box-shadow: var(--shadow); overflow: hidden;
+  }
+  .tablewrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  thead th {
+    background: var(--surface); color: var(--muted);
+    font-size: .74rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em;
+    text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
+  tbody td { padding: 10px 14px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  tbody tr:last-child td { border-bottom: 0; }
+  tbody tr:hover { background: var(--hover); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .domain { font-family: ui-monospace, "Cascadia Mono", Consolas, monospace; font-weight: 600; }
+  .word { color: var(--accent); font-weight: 600; }
+  .nomatch { color: var(--muted); }
+  .rank { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .pill {
+    display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 99px;
+    font-size: .74rem; background: var(--accent-soft); color: var(--accent); font-weight: 600;
+  }
+  .pill.soon { background: #ffe9d6; color: #b4530a; }
+  @media (prefers-color-scheme: dark) { .pill.soon { background: #3d2a17; color: #f0a35e; } }
+
+  .more { display: block; width: 100%; padding: 13px; border: 0; border-top: 1px solid var(--border);
+    background: var(--surface); color: var(--accent); font: inherit; font-weight: 600; cursor: pointer; }
+  .more:hover { background: var(--hover); }
+  .note { padding: 40px 20px; text-align: center; color: var(--muted); }
+
+  footer {
+    margin: 28px 0 8px; padding-top: 18px; border-top: 1px solid var(--border);
+    font-size: .82rem; color: var(--muted); line-height: 1.7;
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  footer p { margin: 0 0 8px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Slovníkové domény <span class="tld">.cz</span> v aukci</h1>
+    <p class="sub">Nadcházející a probíhající aukce expirovaných .cz domén seřazené
+      podle toho, jak častá jsou odpovídající česká slova. Čím frekventovanější
+      slovo, tím výš.</p>
+    <div class="stats" id="stats" hidden>
+      <div class="stat">celkem v aukci <b id="statTotal">–</b></div>
+      <div class="stat">slovníkových <b id="statMatched">–</b></div>
+      <div class="stat">právě probíhá <b id="statRunning">–</b></div>
+      <div class="stat">zobrazeno <b id="statShown">–</b></div>
+    </div>
+  </header>
+
+  <div class="controls" id="controls" hidden>
+    <input type="search" id="q" placeholder="Hledat doménu nebo slovo… (bez diakritiky)" autocomplete="off">
+    <label class="toggle"><input type="checkbox" id="onlyWords" checked><span>jen slovníková slova</span></label>
+    <select id="sort" aria-label="Řazení">
+      <option value="freq" selected>podle frekvence slova</option>
+      <option value="start">podle začátku aukce</option>
+      <option value="len">podle délky domény</option>
+      <option value="abc">abecedně</option>
+    </select>
+  </div>
+
+  <div class="card">
+    <div class="tablewrap">
+      <table id="table" hidden>
+        <thead><tr>
+          <th class="num">#</th><th>Doména</th><th>Slovo</th>
+          <th class="num">Frekvence</th><th class="num">Délka</th>
+          <th>Aukce</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <button class="more" id="more" hidden>Zobrazit další</button>
+    <div class="note" id="note">Načítám data…</div>
+  </div>
+
+  <footer id="footer">
+    <p><strong>Zdroje dat:</strong>
+      seznam aukcí — <a href="https://www.domenovyprohlizec.cz/" rel="noopener">Doménový prohlížeč, CZ.NIC, z.&nbsp;s.&nbsp;p.&nbsp;o.</a>
+      (veřejné CSV exporty nadcházejících a probíhajících aukcí);
+      frekvence slov — Český národní korpus: <em>Srovnávací frekvenční seznamy</em>
+      (SYN2015), Ústav Českého národního korpusu FF UK, Praha 2016,
+      licence <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC&nbsp;BY&nbsp;4.0</a>.</p>
+    <p>Poslední aktualizace dat: <span id="updated">–</span>.
+      Dražit lze po přihlášení na <a href="https://www.domenovyprohlizec.cz/" rel="noopener">domenovyprohlizec.cz</a>;
+      tamtéž najdete aktuální ceny a příhozy právě probíhajících aukcí.</p>
+    <p>Neoficiální projekt; není provozován ani podporován sdružením CZ.NIC.
+      Údaje jsou pouze informativní a mohou být neaktuální.</p>
+  </footer>
+</div>
+
+<noscript><div class="note">Stránka vyžaduje JavaScript.</div></noscript>
+
+<script>
+"use strict";
+(function () {
+  const $ = id => document.getElementById(id);
+  const CHUNK = 400;
+  let rows = [];          // [domain, word, freq, start, end]
+  let view = [];
+  let shown = 0;
+
+  const deacc = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+  const fmtNum = new Intl.NumberFormat("cs-CZ");
+  const fmtDate = new Intl.DateTimeFormat("cs-CZ",
+    { weekday: "short", day: "numeric", month: "numeric", hour: "2-digit", minute: "2-digit" });
+  const fmtUpdated = new Intl.DateTimeFormat("cs-CZ",
+    { day: "numeric", month: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit" });
+
+  function daysUntil(iso) {
+    const t = new Date(iso), now = new Date();
+    return Math.round((new Date(t.getFullYear(), t.getMonth(), t.getDate()) -
+                       new Date(now.getFullYear(), now.getMonth(), now.getDate())) / 864e5);
+  }
+  // Rows carry either a start time (upcoming feed) or an end time (running
+  // feed). Auctions run from 12:00 local to 21:00 the same day; between the
+  // daily snapshots a started row's state is derived from that window.
+  const RUN_MS = 9 * 36e5;
+  function auctionState(start, end) {
+    const now = Date.now();
+    if (end !== null) {
+      return now < new Date(end).getTime()
+        ? { label: "probíhá", cls: " soon", running: true, time: end }
+        : { label: "skončila", cls: "", running: false, time: end };
+    }
+    const t = new Date(start).getTime();
+    if (now >= t) {
+      return now - t < RUN_MS
+        ? { label: "probíhá", cls: " soon", running: true, time: start }
+        : { label: "skončila", cls: "", running: false, time: start };
+    }
+    const d = daysUntil(start);
+    return { label: d === 0 ? "dnes" : d === 1 ? "zítra"
+                  : "za " + d + (d <= 4 ? " dny" : " dní"),
+             cls: d <= 1 ? " soon" : "", running: false, time: start };
+  }
+  function timeCell(state) {
+    return fmtDate.format(new Date(state.time)) +
+      ' <span class="pill' + state.cls + '">' + state.label + "</span>";
+  }
+
+  const label = r => r[0].slice(0, -3); // strip ".cz"
+  const when = r => r[3] || r[4];
+  const SORTS = {
+    freq:  null, // data order: matched by freq desc, then unmatched
+    start: (a, b) => when(a) < when(b) ? -1 : when(a) > when(b) ? 1 : (b[2] || 0) - (a[2] || 0),
+    len:   (a, b) => label(a).length - label(b).length || (b[2] || 0) - (a[2] || 0),
+    abc:   (a, b) => a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0,
+  };
+
+  function rebuild() {
+    const q = deacc($("q").value.trim().toLowerCase());
+    const only = $("onlyWords").checked;
+    view = rows.filter(r =>
+      (!only || r[1] !== null) &&
+      (!q || r[0].includes(q) || (r[1] && deacc(r[1]).includes(q))));
+    const cmp = SORTS[$("sort").value];
+    if (cmp) view = view.slice().sort(cmp);
+    $("statRunning").textContent =
+      fmtNum.format(rows.filter(r => auctionState(r[3], r[4]).running).length);
+    shown = 0;
+    $("tbody").textContent = "";
+    renderChunk();
+  }
+
+  function renderChunk() {
+    const frag = document.createDocumentFragment();
+    const stop = Math.min(shown + CHUNK, view.length);
+    for (let i = shown; i < stop; i++) {
+      const [domain, word, freq, start, end] = view[i];
+      const state = auctionState(start, end);
+      const tr = document.createElement("tr");
+      tr.innerHTML =
+        '<td class="num rank">' + (i + 1) + "</td>" +
+        '<td class="domain"></td>' +
+        (word ? '<td class="word"></td>' : '<td class="nomatch">—</td>') +
+        '<td class="num">' + (freq !== null ? fmtNum.format(freq) : '<span class="nomatch">—</span>') + "</td>" +
+        '<td class="num">' + label(view[i]).length + "</td>" +
+        "<td>" + timeCell(state) + "</td>";
+      tr.children[1].textContent = domain;
+      if (word) tr.children[2].textContent = word;
+      frag.appendChild(tr);
+    }
+    $("tbody").appendChild(frag);
+    shown = stop;
+    $("more").hidden = shown >= view.length;
+    $("statShown").textContent = fmtNum.format(shown) +
+      (shown < view.length ? " z " + fmtNum.format(view.length) : "");
+    $("note").hidden = view.length > 0;
+    $("note").textContent = "Nic nenalezeno.";
+    $("table").hidden = false;
+  }
+
+  fetch("data/auctions.json")
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(data => {
+      rows = data.rows;
+      $("updated").textContent = fmtUpdated.format(new Date(data.updated));
+      $("statTotal").textContent = fmtNum.format(rows.length);
+      $("statMatched").textContent = fmtNum.format(rows.filter(r => r[1] !== null).length);
+      $("stats").hidden = $("controls").hidden = false;
+      $("q").addEventListener("input", rebuild);
+      $("onlyWords").addEventListener("change", rebuild);
+      $("sort").addEventListener("change", rebuild);
+      $("more").addEventListener("click", renderChunk);
+      rebuild();
+    })
+    .catch(err => {
+      $("note").textContent = "Data se nepodařilo načíst (" + err.message +
+        "). Otevíráte-li stránku lokálně, spusťte ji přes malý HTTP server.";
+    });
+})();
+</script>
+</body>
+</html>

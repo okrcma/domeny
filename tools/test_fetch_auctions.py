@@ -183,6 +183,8 @@ class MainEndToEndTest(unittest.TestCase):
             self.assertEqual(fa.main(argv), 0)
             first = out.read_text(encoding="utf-8")
             self.assertEqual(json.loads(first)["rows"][0][0], "zena.cz")
+            self.assertGreater(first.count("\n"), 10)  # indented, not one line
+            self.assertIn("žena", first)  # ensure_ascii stays off
             self.assertEqual(fa.main(argv), 0)
             self.assertEqual(out.read_text(encoding="utf-8"), first)
 

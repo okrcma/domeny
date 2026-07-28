@@ -3,8 +3,8 @@
 
 Two feeds are fetched: upcoming auctions (start times) and currently running
 auctions (end times). Rows are joined against data/dictionary.tsv (SYN2015,
-CC BY 4.0) and written as compact, deterministic JSON consumed by the static
-site. Bid counts and prices are deliberately dropped — with daily snapshots
+CC BY 4.0) and written as deterministic indented JSON consumed by the
+static site. Bid counts and prices are deliberately dropped — with daily snapshots
 they would only ever be stale noise. The output file is rewritten only when
 the auction data actually changed, so a no-op run leaves the git tree clean.
 
@@ -177,7 +177,7 @@ def main(argv=None):
         return 0
     tmp = args.out.with_name(args.out.name + ".tmp")
     tmp.write_text(
-        json.dumps(output, ensure_ascii=False, separators=(",", ":")) + "\n",
+        json.dumps(output, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
     os.replace(tmp, args.out)

@@ -104,7 +104,8 @@
 
   .more { display: block; width: 100%; padding: 13px; border: 0; border-top: 1px solid var(--border);
     background: var(--surface); color: var(--accent); font: inherit; font-weight: 600; cursor: pointer; }
-  .more:hover { background: var(--hover); }
+  .more:hover:not(:disabled) { background: var(--hover); }
+  .more:disabled { color: var(--muted); cursor: default; }
   .note { padding: 40px 20px; text-align: center; color: var(--muted); }
 
   footer {
@@ -266,7 +267,8 @@
     }
     $("tbody").appendChild(frag);
     shown = stop;
-    $("more").hidden = shown >= view.length;
+    $("more").hidden = view.length === 0;
+    $("more").disabled = shown >= view.length;
     $("statShown").textContent = fmtNum.format(shown) +
       (shown < view.length ? " z " + fmtNum.format(view.length) : "");
     $("note").hidden = view.length > 0;

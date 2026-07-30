@@ -1,5 +1,7 @@
 # Dictionary-word .cz domains in auction
 
+**Live site: <https://okrcma.github.io/domeny/>**
+
 A simple static site listing upcoming and currently running CZ.NIC auctions
 of expired .cz domains, ranked by how frequent the corresponding Czech word
 is — the more common the word, the more interesting the domain.
@@ -22,6 +24,16 @@ This project is completely vibe-coded.
   the "jen slovníková slova" toggle controls whether the rest are shown.
   Splitting hyphenated or multi-word domains is a possible future extension.
 - Tests: `python3 -m unittest discover -s tools`
+
+## Running locally
+
+```sh
+python3 -m http.server 8000
+```
+
+and open <http://localhost:8000/>. Opening `index.html` directly doesn't
+work: the page loads `data/auctions.json` via `fetch()`, which browsers
+block on `file://`.
 
 ## Data sources
 

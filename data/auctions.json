@@ -3,7 +3,7 @@
     "https://www.domenovyprohlizec.cz/cs/auctions/export-csv/new/",
     "https://www.domenovyprohlizec.cz/cs/auctions/export-csv/in_auction/"
   ],
-  "updated": "2026-11-10T12:50:52Z",
+  "updated": "2026-11-11T11:59:42Z",
   "columns": [
     "domain",
     "word",
@@ -62,6 +62,13 @@
       null
     ],
     [
+      "zahyb.cz",
+      "záhyb",
+      707,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
       "zralost.cz",
       "zralost",
       692,
@@ -72,8 +79,8 @@
       "doktorsky.cz",
       "doktorský",
       580,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kauce.cz",
@@ -129,6 +136,13 @@
       "dohola",
       115,
       "2026-11-25T11:00:00Z",
+      null
+    ],
+    [
+      "marketingove.cz",
+      "marketingově",
+      99,
+      "2026-11-26T11:00:00Z",
       null
     ],
     [
@@ -212,8 +226,8 @@
       "flasinetar.cz",
       "flašinetář",
       41,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cecek.cz",
@@ -237,18 +251,18 @@
       null
     ],
     [
-      "supi.cz",
-      "supí",
-      28,
-      "2026-11-11T11:00:00Z",
+      "nalezne.cz",
+      "nálezné",
+      30,
+      "2026-11-26T11:00:00Z",
       null
     ],
     [
-      "tovarnicka.cz",
-      "továrnička",
-      27,
+      "supi.cz",
+      "supí",
+      28,
       null,
-      "2026-11-10T20:00:00Z"
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zejdlik.cz",
@@ -335,5842 +349,2916 @@
       null
     ],
     [
-      "9tlapkam.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "abdiel-jazykovka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "agregaceflexibility.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ahinsapet.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "aipedia.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "alanseventeen.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "alesvomela.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "alfatravel.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "am-english.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "anascarina.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "androcur.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "approwell.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "asciiron.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "aspneucare.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "assistme.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "astroacademy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "autodilna-pavel-stanek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "autovosk.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "autowak.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "avms.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "badmintonhit.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "baggly.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bakovskarezidence.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bakuchiol.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "banostav-poptavky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "barborkacup.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bdinvestczech.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bellissimashop.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "beseder.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bestproduct.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bezones.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bezvapiti.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bibia.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "biodesign.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bistromorris.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bjp-produkty.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bk-chirurgie.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "blackdoor.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "blowee.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "burbo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bylinnalecba.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "bynessa.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "canapino.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cardinals.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "celebky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "celnisklocz.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cernyweby.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cervenytrpaslikjablonec.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ceskabiotextil.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ceske-chilli.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ceske-pyzamo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chcemesvatbu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chceszmenu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chceszmenukrouzkujzenu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chcijezditsfnd.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chcizdravezhubnout.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "chipvision.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cingrlata.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cistouvoduvsem.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "citypoints.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "clientflow.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cnccista.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "configo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "congopoint.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "corvetteclub.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "corvetteplzen.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "cukrovapohadka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "czaukce.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "czechsmartcitycluster.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "danaon-art.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "danielamrazova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "darky-od-srdce.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "davidmarket.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "deity.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dej5.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "deluxerituals.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "denprodekolt.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "designovy-zahradninabytek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "diblicek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "digitalni-truhlari.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "digitalnitruhlari.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "djerbiano.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dmedia.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dokasy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "domacipohoda-podlahy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "domovabydleni.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "domovnakupu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "domovy-senioru.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "domypriesenitz.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "donessyfcimops.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dotaceproobec.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dprochazka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "driveline.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "dum-mikolajice.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "eegrants.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "enebankovka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "eulerpool.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "everhorse.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "evolia.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "excelentgames.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fadeus.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fajngalanterie.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "famefatal.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fasadovna.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ferrino-outlet.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "filmjezis.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "finleads.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fitmarketer.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fitsems.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fortel-restaurace.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fotoivodudek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "foukamepenu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fresh24.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "friends-prague.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "funrock.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fyzioklinikavision.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "fyzioterapievision.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "gapko.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "gardeniosalaterie.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "give5.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "givika.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "greenbar1.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "gulasovna.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "h2wellness.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hanak-kuchyne-nabytek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hardbeats.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hcrousinov.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hedge-fund.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hedgefund.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "heylove.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hintertux.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hlasky-z-filmu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hmfg.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hned-ted.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hnhrm-horovice.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hnk-nekr.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hokejkempy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hokejove-turnaje.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "homecare-assistance.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "honzaklec.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hradgrabstejn.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hryprodivky-hry-zdarma.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "htzp.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hubnuti-jidelnicek-vyziva.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hudecova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "humlovi.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hustakovamiroslava.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "hypebeasts.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ibnbattutafest.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "igold.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "imatcha.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "impexdesign.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "inebankovka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "innovativeways.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "inprise.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "insta-slivka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "invcentral.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ipliberec.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "irpanely.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "iveta-spoustova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ivetaspoustova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ivostrejcek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jaroslavzamecnik.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jestenevim.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jitkapalatova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jj-servis.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "joyyogi.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jujitsuostrava.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "jusaakdiorama.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kaizenstore.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kamsodpadem.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kinadoma.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "klaravaclavikova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kmobil.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kni-york.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kod50.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "komtrade.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kovani-na-miru.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "krajinky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kristaloveladicky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kristynapetrzilova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kucharka-zivota.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kvbikers.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kytickyasamyhezkyveci.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "kytkyodbedricha.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lada-cernohousova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ladydibeauty.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lazne-lazenske-pobyty.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "levnevjeci.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "liberlapidum.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "libusedavidova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "likvidace-cervotoce.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "likvidacecervotoce.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "liskatd.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "livedoctor.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "livingspooon.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "livingspun.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "longevitypress.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lovemap.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "luckakovarova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "luxforux.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lziva-lzicka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lziva-zlicka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "lzivalzicka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "malujilevne.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mamanti.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "maminails.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mapasamosberu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mapbilina.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "marenafestival.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "marietriskova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "martinstach.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "masazekuba.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "maxbazar.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mbsped.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "medicalsolution.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mericistroje-wenzel.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "microbix.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "minimalist.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mirreal.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mistrplisek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mobilniplotylevne.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "modni-strihy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "moje-bezpecnost.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "monika-zajicova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "monitor-audio.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mosl.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mrcreatives.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "msitax.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mudrcervena-prestice.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "my-security.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mybodysalon.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mycast.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "mzss.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nahradniauta.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nahradniautozdarma.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nameste.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nanovosk.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nasetlupa.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nasrst.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "navoskuj.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nestello.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "neurosensorika.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "neurosensory.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "neurosenzorika.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "nkukova.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "numis-tria.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "numistria.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "o24dns.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "oceanzdravi.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "odhadymorava.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "okennicentrum.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "omackychilli.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "omaluj.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "optimalizaceflexibility.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "otevrenevolby.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "outletoutdoor.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ovolby.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "paranormalno.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "parkosobnosti.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "partypepa.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "partypujcovnaznojmo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "patronproduction.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pavel-nikl.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pbe-solar.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pemaho.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "personalistika-sro.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "petexor.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "petfriend.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "petrovamichaela.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "petrzilovakristyna.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pgforum.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "phaf.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "phonexpert.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pipistrel.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "placeny-pristup.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "placenypristup.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "plasmatherapy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pm-vahy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "podlahy-koupelny.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "podnikanivpohode.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "popcult.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pradas.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prejblog.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prekrasne-darky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prekrasnedarky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prestatkouritdnes.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prochazkalimousines.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "procsemnou.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prodavejspepou.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prodavejstynou.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "prodejkaravanu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pronajemleseni-4pi.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pujcovna-elektrocentral-hujeval.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pujcovna-elektrocentral-valeon.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pure4u.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "puzzleschool.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "pyroadvisory.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rachvaj.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "radousovastudio.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rallyemontepacov.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ravac.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rborislavka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "realitysj.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "refinio.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "relaxacni-pobyty.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rezidencebakov.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribbro.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribhouse.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribro.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribrorestaurace.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribrorestaurant.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribroribhouse.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ribshouse.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ringfashion.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ringfighter.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "riverahotel.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "romireta.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "romiretta.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rstinvests.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "rybolovostruzno.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "salon-oliwa.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sapiron.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sbery.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "scalffoders2025.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "scanquit.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "scba.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "schooling.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "seber.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "see-ya.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "servis-oleju.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "shop-obleceni.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "silesianinnovativegroup.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "skentech.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "skhranice2015.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "skinnygummy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "skolapohodlne.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "skvelaprilezitost.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sladkyden.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "slidingtech.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sluzbyvykonoverovnovahy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "smilik.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "smlouvylevne.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sorastudio.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "soulwood.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "spirtisimo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "spocinuti-retreat.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sportovnipodlahyvesely.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "sszts.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stankarplus.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stavbystefek.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stopslimakum.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stredovekedny.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stslatina.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "studio-pro.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "studiouran.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "stupnice-shu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "teamscloud.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "televizezadarmo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "terezaklain.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "terminu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tesarstvi-vm.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "theresdekorace.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "thulle.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tomuver.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tomuwear.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tonyperotti.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "top-preference.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "trdlicko.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tv-jicin.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tvhracky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "tvorimevropu-test.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "u-la-la.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "uklid81.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "uklidimtoextra.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ultrahuman.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "unmetered.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "urbangame.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "urologie-brno.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "uxdreamteam.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "varhany-pro-emauzy.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "velea.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "velkyvyprodej.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vestigra.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vestigraph.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vimeovsem.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "virsid.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vladimir-pleva.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vseborice.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vsesepocita.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vycistime-uklidime.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vysavacnaokna.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vysocina21.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vzduchova-pistole.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "vzorky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "wallensteinrestaurant.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "wanderlusts.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "weblyapp.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "webterka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "wemberg.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "wiazarpolska.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "winedoorclub.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "worverk.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "xplod.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "yark.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zachrana-krovu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zachranakrovu.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zahradyroztoky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zahradyslunecna.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zahybaniprozeny.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zarembovi.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zateplovani-budov.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zavarovacky.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zazijznojmo.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zintegruj.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "ziva-zlicka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zivazlicka.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
-      "zkusenostisvodikem.cz",
-      null,
-      null,
-      null,
-      "2026-11-10T20:00:00Z"
-    ],
-    [
       "100micu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "1golf.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "3kw.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "4x4veskolach.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "absolvent-market.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "acfinvest.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "achn.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "aiveo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "alphasolution.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "anetakuklinkova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "anglictinavlasim.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "apartman-puglia.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "apartmentonjakutska.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "arena-club.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "armidanart.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "aromafirst.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "art-js.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "astracatering.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "atelierspojovaci.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "aurawave.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "autodoprava-ro.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "avemulti.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "avemultimedia.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "avkv.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bambotec.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "barboranerusilova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "barubizona.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "barvyroko.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "basicstyle.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "baversoft.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "beautybynikol.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bekpashop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "betonwelt.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bh-centrum.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bh-eshop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bh-montaze.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bhcentrum.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bikeknights.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bio-mont.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "biofeedback-most.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "biofeedbackmost.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "biomont.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "biorezonancehavirov.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "boldbean.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "borskaloreta.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "boxclubsmrtak.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bremenari.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "broukinvest.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "broukstav.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "businessrebels.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "buzzballz.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bydleni-sezemice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bydleninavysluni.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bydlenisezemice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "byt-labkova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "byznys-po-cesku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "byznyspocesku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "bzgastro.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "calendar26-shop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "campaign-scania.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "candela-decor.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "carbuy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "casa44.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cdstudent.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cenyjidla.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ceramicavolk.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ceskaasociacechuv.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chameleoni.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "change-car.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chcipsychologa.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chcivlastnicontent.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chcizakazky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chick-fill-a.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chickenpoint.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "chytreposlani.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "classybeautybar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cliganic.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "comamdoma.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "crcs.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cssystems.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ctverduvbazar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "cwf.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "czechaerobatic.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "czecharray.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "czechclouds.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "czechoffroadzine.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dailysports.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dankydag.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "davejber.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dezfas.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "diamonds-antwerp.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "digitaldeposit.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "directnet.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dnesziji.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dogzilla.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dokonalova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dokoncito.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "domy-roudne.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "domyroudne.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dopravaproeshop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dortyodverunky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dsfilm.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "dumnovabystrice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "duschinska.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "edruzstvo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "edukaceskoly.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "eldo-cl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "eledka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "eliskafabian.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "elitemotors.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ellas-burger.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "endotest.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "engatte.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "etherdyne.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "eventsatpanorama.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "farmarovo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "farmtable.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fashionsugar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "felixfeel.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fembox.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fin-car.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fojtikfilip.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fotosoutez-bystricko.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ft-consulting.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fve-bezuroku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "fyzio9.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ggeasytips.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "glampio.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "glowify.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "godingtaxi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "green-oak-residence.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "guntert.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hamsasoul.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hanackyrybar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hanakrasova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hardess.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "harleymobile.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "harmonikarvintrlik.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "healthystyle.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hnedylabrador.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "holcuv-statek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "holcuvstatek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "holotrial.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "homeopatieblansko.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "horalkynatripu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hospudkanakoupaku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "hotelepocha.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ikigaikouc.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "innovate8.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "investicniapartmanyegypt.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ipublisher.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "isuzu-rymarov.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jackpottoken.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jadexclusive.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jana-js-art.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jarka-divisova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jhrabal.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jirisibinsky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jiristudnicky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "jksupport.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kalusekdesign.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kapela-povoden.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "karinkouc.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "katerinahicl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "komoushop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "konstelacesgrootem.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kosmetikagia.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kozanostra.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "krasne-ubytovani-jeseniky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kreart.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "krejcovstvill.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "krojovabota.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "krukru.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ksichty.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kv-partners.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kvalitniautosedacky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kvalitnipodlahovka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "kytkyzkruhace.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ladiestaxi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ladiestaxihodonin.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lepsizivotnavsechurovnich.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "leseniustinadorlici.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "libranailslab.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lkglobaltrans.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lnkd.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "loterieaut.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "luciematulova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lumotech.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lumotek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "lyobasta.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "maisoncafe.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "marmada.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "martinholoubek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "martinproduction.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "masaze7s.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mastomysi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "matejvrtilek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mcomm24.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "medicaldiagnostics.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "medx.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mesino.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "michaluhlir.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mikulikhp.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "milionoveportfolio.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mindee.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "miroslavahustakova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mixkostek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mnamkapodnos.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mobilni-pradelna.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mobilnipradelna.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mobilprotebe.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mojestrevo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "monikadolezalova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "moontherapy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "msgo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mujhorkykontakt.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mujlampion.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "multigrafix.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "myfun.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "mysebudemebrat.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "na3strechu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nabydu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nakoncileta.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nanohub.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "naprstkova9.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "naradi-technik.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nastrojarnadc.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "naszverimex.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nejlepsikavovary.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nejlepsitricka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nejsemvtomsama.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nejvyssicenovanabidka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nekomrpomisne.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nerozbitnyplan.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "neuraudit.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nexatransport.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nfrozpal.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nhl-shop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nhtglobal.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nohejbal-petrovice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "not-too-old.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nottooold.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "novabloom.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nove-firmy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "nymera.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ociosani.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "oilbase.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ologril.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "onepieces.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "onkologiezlin.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "osmontled.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "patrikcernota.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pejskarna.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "penize-finance.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "petprvku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "petrmelichar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pevecky-sbor.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "piknikvparku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pivnishopkolin.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pizzapazzi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "playdex.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "playstation3.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ploc.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pohodovamatika.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "poker99.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "poptejse.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "portacivitas.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "portaivitas.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "poubova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pourart.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pozemky-sezemice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pozemkysezemice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pplab.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pragoplata-kids.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "praktickylekar-novosadova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "prepaid-solutions.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "profigeodeti.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "profiheft.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "projectivo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "proteg.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "proudenergie.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "provereny-eshop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "provereny-obchod.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "proverenyeshop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "proverenyobchod.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "provinium.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "pujckabezpoplatkuihned.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "purivia.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "qgames.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "radotinskevyhlidky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "reac.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "realestet.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "realfinance.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "residence-najikalce.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "residence-roudna.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "restauracezivestravy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "reznickadernictvi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rhstavebnictvi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "riderclub.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "robertorichi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rodrev.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rodrew.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rozpal.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rozvedenejfotr.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rybarina-veseli.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rybarske-nacini.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rybarske-potreby-liberec.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rybarske-potreby-raval.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "rypadylko.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "samechov.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sanafor.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sanardy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sazavaprolidi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "scoola.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sdhcekov.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sdi-global-europe.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "seniorsyachting.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "seniortaxiluzice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "serchan.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "setlife.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "severinovi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sg-cafebar.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "shopmatik.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "signatureconnection.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sklenene-posuvne-dvere.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "skoola.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "slaskoumonika.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sluzby-agro.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sluzbyelektro-slapak.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "small-caps.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "smrtakgym.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "snadneji-zit.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "somasage.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sonicdrivein.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "soutez-guinness.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "spolekproekologii.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sportkohout.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "srdcoffka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "srdcoffky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "srdcofky.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stabourex.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "starepoctivenaradi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stastnyeshop.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stavbykocourek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stavebnidohled.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stehovanivolomouci.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "stomicu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "strilwork.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sultanibusinesscentrum.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "sunoblog.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "supershoes.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "susaky-pradla.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "svobodainvestice.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swiss-steel-international.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swiss-steel-intl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swisssteel-intl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swisssteelinternational.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swisssteelintl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swissteel-international.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swissteel-intl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swissteelinternational.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "swissteelintl.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "takeawalk.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tanec-roznov.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tanec-valmez.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tanganikamalawi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "taxigoding.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "techniknaradi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "telojakospojenec.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "templeofadvo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tetujsi.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tezkabremena.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "thcp.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "topeni-palivove-drevo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tourdeczechoslovakia.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "toyotaliberec.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "travelomat.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "truhlarstvimikulov-opelka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "tytko.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ubuchtaka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "ulmabanjo.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "uptowncocktails.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "uspuntu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "uvolsaka.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "varhanarstvi-novacek.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vasco-nails.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vcelarstvinadvacitce.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vehicledetailing.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vencenipejsku.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vikaro.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vikhorizon.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vlackytrebon.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vodabezstrachu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vony3d.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vosknavlasy.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "votcompany.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vulcanofm.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vybavenidoauta.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vytiskyz3d.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "vzdelavani-brozkova.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "wallnet.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "webovkyproautosluzby.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "wellness-pece.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "woodeedesign.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "woodmetal.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zabaviste-zanasu.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zasedmero.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zautodily.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zazitkarium.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zdenapopovskaallianz.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zdrava-zahrada.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zdravazahrada.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zetano6.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zivotninezivotnipojisteni.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zpohleduzeny.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "zprostredkovanioddluzeni.cz",
       null,
       null,
-      "2026-11-11T11:00:00Z",
-      null
+      null,
+      "2026-11-11T20:00:00Z"
     ],
     [
       "2026.cz",
@@ -49892,6 +46980,3317 @@
       null,
       null,
       "2026-11-25T11:00:00Z",
+      null
+    ],
+    [
+      "3dkousek.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "3dkousky.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "44worms.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "4aport.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "4vas.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "56666.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "aaautonove.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "adamstanek-it.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "adelfoto.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "adventbezstresu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "advokatpetrzivela.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "aiconnect-24.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "akademiezabavy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "akcniruceni.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "akfoto.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "akkotabova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "alegia.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "alko-nealko.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ametystkamen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "andropauza.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "anetpavel.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "antikvariat-vykupknih.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "antikvariatricany.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "apartmanorlickyhory.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "arlesdevelop.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "artatol.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "artrugs.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "asenov.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "audiotex.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "austriawood.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "autoklempirstvi-kolin.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "autoklempirstvikolin.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "autonehody-kolin.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "autoservisd1.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "autoskolapremium.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "awardity.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "badtimesblues.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "baldr-corp.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "balsch.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "balzarova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "barborasuskova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "barstock.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bbstavby.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "behumanlmportal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bejbex.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "belstewart.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "benedikta.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bestenpaintball.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bezpecnapracoviste.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bezpecnydrink.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bezvasvetla.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bistro-jecna.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bitcoinreality.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bitcoinvestec.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bitkub.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "blizkoseniorum.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "boostgen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "brandshift.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "brianstailor.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "brnenskanaplavka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "btcvestec.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "budujrentu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bydlenikunraticka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "bytkoterovska.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cafesachs.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "caramellacafe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "caramellagrill.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "carpathiacargo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cash4now.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cateringzd.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cbdcode.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "century21plzen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ceskaneurorehabilitace.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "chatapistovice.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "chcibytmilonarem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cheaptickets.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cisporaseek.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cistyusmev.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "classfest.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cleaningtoday.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cleantoday.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "climate.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "collmag.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "convert-group.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "coolwaveplzen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cotopaxis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "crynic.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cssdanezavisli.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cupsy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "cus-group.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "dandalfphoto.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "darkovyalkohol.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "designano.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "destneapartman.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "detile.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "detskylekar-vidnerova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "deutschermoment.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "devita.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "devitamark.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "digitipek.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "dilnaukrystofa.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "discovermikulov.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "diskretnicesta.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "dogly.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "domaciuniverzita.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "domypribramsazky.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "doucovani-cermat.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "drevenafotka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "drevo-ltm.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "drevo-srdcem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "druhaci-2a-oblacna.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "dum-podoli.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "dumsedlcany.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "durisol-stavby.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "e-spring.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "e-verejnasprava.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "easy-test.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "easydek.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ecsc.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "edies-dev.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "eelektrokola.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ekalkulacka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ekishrouda.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ekompilace.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ela-kubecek-portfolio.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "elektroaz.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "elektrohladik.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "eli-fleur.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ellipse-bm.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "embilyplatform.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "englishmoment.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "equiting.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "esteplus.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "eurokydy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "exo-prime.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "exoprime.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "farmavolavec.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fasadysdotaci.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fortunalive.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fotovoltaikaodbidli.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fpvdronetours.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "freyaoriginal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fruktis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fullpmarketing.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fyziologickedny2026.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "fyziorehabko-lidus.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "genting.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "globaligamingsolutions.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "goodrentcars.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "goophone.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "grand-reality.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "grand-sharp.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "grandveteran.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "grandveteranracing.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "guardo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "guardoriq.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "gynekologiesladkova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hafbarf.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "havasoftshell.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "healthforce.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hemahk.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "heunisch-brno.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hhcko.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hide-referrer.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hlidame-deti.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hmsteel-design.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hodinovymanzel-remeslnik.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "holkysai.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "holkyzai.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "homeopatieprozeny.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "honority.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "horydestne.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hospudkapeklo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hostinecukajimarika.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hubnujidlem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hvezdymnepraly.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "hypotekabrno.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "i-vino.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ikhsystems.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ikrajvysocina.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "imunitaecentre.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "indianaturebymkonv.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "influoncz.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "inskinstudio.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "instamount.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ipcmzv.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "iphonewatch.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ivetstejskalova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jag-aus.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jajsemdama.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jeseniky-ubytovani-bank.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jirisubrt.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jjvykupnemovitosti.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jogaharmonie.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jogapoint.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jsmebrnostred.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jsmelisen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jsmereckovice.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jsmereckoviceamokrahora.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jsmestred.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "juarezova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jukeboxpronajem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "jy888.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kabinovezavazadla.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "karlikuvweb.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "karosarna-kolin.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "karosarnakolin.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kashafe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kbcore.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kebabdoubravka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "klokanek-sterboholy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kostisvalyklouby.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kotatkozkazy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kplglass.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kpmczech.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kralovopolskabrno.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kratomwolf.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kreativnizabava.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "krocak.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ksobesdetmi.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kubovatrava.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kuchyne-vyprodej.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kuchynerychle.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kuchyni-vyprodej.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kurnikynamiru.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "kvetinkova6.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lefabags.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "legeartis-dent.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "leto4kids.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "levna-webovka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "levne3d.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lewandulka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "liceni-ostrava.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "litybetonzero.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lmspetrklic.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lopu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "loznice-king.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lozniceking.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "lyssy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "m-krby.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "manno.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "marbacafe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "marbakafe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "marketingsplusem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "markysphotography.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "martinavesela.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masaz-tantra.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masaze-atlas.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masazedanna.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masazejuska.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masnavic.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "masoachilles.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "matcher.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mathsolution.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "matlipp.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "maziva-total.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mederbeauty.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "medialnivychova2015.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "medpro.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "metatronklic.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "metatronkod.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "michaelaprodavabyty.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "minutovenarozeniny.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mistrsusenka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mistyvale.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mj-eurotrade.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "modulcon.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mojenalezne.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "monerry.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "money-uup.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "moneypatterns.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "monikalepschy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "monikasalon.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "montershop.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mraka-kanalizace.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "msprisimasy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mszvonica-chrlice.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mudr-heger.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mudrvaclavcova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mufikov.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mujmikulov.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mujpoutnik.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mujsmyslzivota.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "muzibazar.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mylanguageclub.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "mysteriumsrdce.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nabenatkach.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nadacnifondsovicka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nailtech.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nakoupak.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "naraditolsen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nasebabice.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nasekrupka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "naskutrbrno.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "naturmineraly.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "navyhone.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nikifood.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nnbt.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nonstop-pneuservis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nonstoppneuservis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nostalgicgarage.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novepisty.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novinkypromuze.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novinkyprozeny.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novinypromuze.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novinyprozeny.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "novypist.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "nrucetnictvi.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "obloukovepreklady.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "oblozkovezarubnecz.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "odevyjaromerice.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "offshory.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "oglas.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "oktopus.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "oktopuspro.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "opravynaprav.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "opravyvstrikovacu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "opravyvstriku.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "optimait.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "optimumnutrition.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "outletivo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pacienti-rock.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "palmpreblog.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pasta-fresca.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pavelklus.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pepefoodcatering.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "petravanacova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "petrmacakservis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pietaservis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "plantro.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "plinko-casinos.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "plinko-official.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "plinkocasinogame.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pm-photo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "podbelvikem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "poketz.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pokladyprovasepoklady.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "poradceprotebe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "poslidopis.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "posvatna-alchymie.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "praceostravsko.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pramk.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "principypenez.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "procestujmespolusvet.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "procmilan.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "projekcniznaceni.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "prostemaso-kh.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "prostemasokh.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "protectoracademy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pujcit-cistic-kobercu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "pujcovna-lodi-ohre.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "putujemespolu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "radatrans.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "radiomilesovka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rajskykramek.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rapee.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "reelpal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rekonstrukceprucha.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "remix-gama.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rengaw.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "repasenaprav.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "resslova930.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rezidencekobylisy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ri-ha.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rizikapolitika.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rodicovskekruhy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rokycanygo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rubindrahokam.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "runoira.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "rychle-financovani.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "salonoksy.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "scamorava.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "securitysolution.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "serverplanet.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sgpp.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "simplymc.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "singlkafe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sirna.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "skippylabs.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sklepustareskoly.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "skolakuvraj.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sladky-raj.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "slaskouveronika.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "smalltrains.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sminkovani.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sneagers.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "snupe.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "snupeto.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "socialist-motorgate.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sona-ivaskovicova-virtualni-asistentka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spaneklumora.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "speedohealer.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "sperkovekamenyoriginal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spinandthrive.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spinpro.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spiralaportal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spokojena-mama.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "spujcka.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "squashcentra.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "srvisuals.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "statek-novak.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "strednibaltimore.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "studiumvaustralii.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "super-kecky.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "surronmotorky.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "susnova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "svatbaamanzelstvi.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "swapgear.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "symag.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "synonymaonline.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "szus-tanecni.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tasmota.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "taxi-nepomuk.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "taxinepomuk.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "terezakalinova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "terkaahonza.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "thaireal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tipsportlive.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tldesign.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tolsentools.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tomasstribrny.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "topbalik.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "torkexpert.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tplinks.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "truhlarstviuanicky.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "turekphotography.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "turmalinkamen.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tvujkamarad.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "tynela.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ubytovanivdestnem.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "ucbot.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "uidnes.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "uklidnes.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "v-chlupsa.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "valnovka-wellness.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vasenalezne.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "venkovnisvitidla.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "verkahlavackova.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "veromassage.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vestavene-skrine-max.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "veterina-homeopatie.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "viktorsulc.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vinokovacs.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vivest.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vokyshop.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vykrouzkuj-dinosaura.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vykrouzkujdinosaura.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vyprodej-kuchyne.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vyprodej-kuchyni.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vysledkyfotbal.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vysocka553.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vyukaif.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "vzorcepenez.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "warehouse49.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "weareutopie.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "wh49.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "wildclaystories.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "woodbros.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zahradni-mesto-beroun.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zahradni-mestoberoun.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zahradnimesto-beroun.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zahradnimestoberoun.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zakousnisedodivadla.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zapnislunce.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zastresenikulatehobazenu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zateplimezdarma.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zdravotninabor.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zemenema9zivotu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zemenemadevetzivotu.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zemnipracemeszaros.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "znovapro.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zonky-promo.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
+      null
+    ],
+    [
+      "zvirecicentrum.cz",
+      null,
+      null,
+      "2026-11-26T11:00:00Z",
       null
     ]
   ]
